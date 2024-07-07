@@ -1,0 +1,1 @@
+the keylogger will create a txt file after used which will display the recorded buttons, when re-using the keylogger the new recorded keys will get added to the txt instead of creating a new one
